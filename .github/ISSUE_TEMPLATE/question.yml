@@ -1,7 +1,7 @@
 name: Ask question
 description: Ask ytdl related question
 labels: [question]
-assignees: "sourabhkv,perrypinaki,ForeverAggregrate"
+assignees: "perrypinaki,ForeverAggregrate,Sumitshvr"
 body:
   - type: checkboxes
     attributes:
